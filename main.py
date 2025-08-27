@@ -1,5 +1,5 @@
 # =============================================================================
-# Author: Khadija Aguerchi, Younes Jabrane, Maryam Habba, Mustapha Ameur, Amir Hajjam El Hassani
+# Authors: Khadija Aguerchi, Younes Jabrane, Maryam Habba, Mustapha Ameur, Amir Hajjam El Hassani
 # Affiliation: Cadi Ayyad University/ ENSA Marrakech / Modeling and Complex Systems (LMSC)
 # Description: CNN-based breast cancer classification model
 # Date: 2025-08-27
