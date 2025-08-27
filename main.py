@@ -1,6 +1,9 @@
 # =============================================================================
 # Authors: Khadija Aguerchi, Younes Jabrane, Maryam Habba, Mustapha Ameur, Amir Hajjam El Hassani
-# Affiliation: Cadi Ayyad University/ ENSA Marrakech / Modeling and Complex Systems (LMSC)
+# Affiliation: Cadi Ayyad University, UCA, ENSA, Modeling and Complex Systems (LMSC), Po Box 575, Av Abdelkrim
+Khattabi, 40000, Marrakech, Morocco;
+Nanomedicine Imagery & Therapeutics Laboratory, EA4662—Bourgogne-Franche-Comté University,
+University of Technologie of Belfort Montbéliard, Belfort, CEDEX, 90010, France;
 # Description: CNN-based breast cancer classification model
 # Date: 2025-08-27
 # =============================================================================
