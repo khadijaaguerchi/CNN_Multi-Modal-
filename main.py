@@ -234,7 +234,5 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-# Print total execution time
-# print(f"\nTotal Execution Time: {total_execution_time:.2f} seconds")
 
 
