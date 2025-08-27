@@ -235,19 +235,6 @@ plt.grid(True)
 plt.show()
 
 # Print total execution time
-print(f"\nTotal Execution Time: {total_execution_time:.2f} seconds")
+# print(f"\nTotal Execution Time: {total_execution_time:.2f} seconds")
 
 
-voici l'architecture de notre modéle 
-
-Input(shape=(128, 128, 1)), 
-Conv2D(filters, kernel_size, activation='relu'),
-MaxPooling2D(stride, stride), 
-Conv2D(filters * 2, kernel_size, activation='relu'),
-MaxPooling2D(stride, stride),
-Conv2D(filters * 4, kernel_size, activation='relu'),
-MaxPooling2D(stride, stride),
-Flatten(), 
-Dense(128, activation='relu'), 
-Dropout(0.5),  
-Dense(1, activation='softmax')
