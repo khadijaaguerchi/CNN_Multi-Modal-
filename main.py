@@ -59,7 +59,7 @@ X = X / 255.0
 
 # Cross-validation setup
 num_runs = 3
-num_folds = 4
+num_folds = 5
 kf = KFold(n_splits=num_folds, shuffle=True, random_state=42)
 
 # Initialize lists to store metrics
