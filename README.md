@@ -1,7 +1,3 @@
-# =============================================================================
  Author: Khadija Aguerchi, Younes Jabrane, Maryam Habba, Mustapha Ameur, Amir Hajjam El Hassani
-Affiliation: CAdi Ayyad University/ ENNSA Marrakech / Modeling and Complex Systems (LMSC)]
-Description: CNN-based breast cancer classification model
-Date: 2025-08-27
+Affiliation: Cadi Ayyad University/ ENSA Marrakech / Modeling and Complex Systems (LMSC)
 Article: Enhancing Automated Breast Cancer Detection: A CNN-Driven Method for Multi-Modal Imaging Techniques
-# =============================================================================
