@@ -2,7 +2,6 @@
 # Author: Khadija Aguerchi, Younes Jabrane, Maryam Habba, Mustapha Ameur, Amir Hajjam El Hassani
 # Affiliation: CAdi Ayyad University/ ENNSA Marrakech / Modeling and Complex Systems (LMSC)]
 # Email: khadija.aguerchi@edu.uca.ma
-# GitHub: https://github.com/yourusername
 # Description: CNN-based breast cancer classification model
 # Date: 2025-08-27
 # =============================================================================
